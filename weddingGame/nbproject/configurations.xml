@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="88">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="trunk">
+      <in>Allegro.cpp</in>
+      <in>Allegro.h</in>
+      <in>Bitmap.cpp</in>
+      <in>Bitmap.h</in>
+      <in>Circle.cpp</in>
+      <in>Circle.h</in>
+      <in>Color.cpp</in>
+      <in>Color.h</in>
+      <in>ColorAlpha.cpp</in>
+      <in>ColorAlpha.h</in>
+      <in>ColorProxy.cpp</in>
+      <in>ColorProxy.h</in>
+      <in>CompositeBitmap.cpp</in>
+      <in>CompositeBitmap.h</in>
+      <in>CompositeSprite.cpp</in>
+      <in>CompositeSprite.h</in>
+      <in>ConversationHandler.cpp</in>
+      <in>ConversationHandler.h</in>
+      <in>Drawable.h</in>
+      <in>DrawablePointer.cpp</in>
+      <in>DrawablePointer.h</in>
+      <in>Ellipse.cpp</in>
+      <in>Ellipse.h</in>
+      <in>Eroe.cpp</in>
+      <in>Eroe.h</in>
+      <in>Font.cpp</in>
+      <in>Font.h</in>
+      <in>Keyboard.cpp</in>
+      <in>Keyboard.h</in>
+      <in>Line.cpp</in>
+      <in>Line.h</in>
+      <in>Mouse.cpp</in>
+      <in>Mouse.h</in>
+      <in>Munizione.cpp</in>
+      <in>Munizione.h</in>
+      <in>MyAllegro.cpp</in>
+      <in>MyAllegro.h</in>
+      <in>Nemico.cpp</in>
+      <in>Nemico.h</in>
+      <in>Notification.h</in>
+      <in>Personaggio.cpp</in>
+      <in>Personaggio.h</in>
+      <in>Pixel.cpp</in>
+      <in>Pixel.h</in>
+      <in>Point.cpp</in>
+      <in>Point.h</in>
+      <in>Polygon.cpp</in>
+      <in>Polygon.h</in>
+      <in>Rectangle.cpp</in>
+      <in>Rectangle.h</in>
+      <in>SampleSound.cpp</in>
+      <in>SampleSound.h</in>
+      <in>Sprite.h</in>
+      <in>Text.cpp</in>
+      <in>Text.h</in>
+      <in>TextPlotter.cpp</in>
+      <in>TextPlotter.h</in>
+      <in>Triangle.cpp</in>
+      <in>Triangle.h</in>
+      <in>main.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+      </makefileType>
+      <item path="Allegro.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Allegro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Bitmap.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Bitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Circle.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Circle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Color.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Color.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ColorAlpha.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ColorAlpha.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ColorProxy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ColorProxy.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CompositeBitmap.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="CompositeBitmap.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CompositeSprite.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="CompositeSprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ConversationHandler.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="ConversationHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Drawable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DrawablePointer.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="DrawablePointer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Ellipse.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Ellipse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Eroe.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Eroe.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Font.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Font.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Keyboard.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Keyboard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Line.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Line.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mouse.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Mouse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Munizione.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Munizione.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MyAllegro.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="MyAllegro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nemico.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Nemico.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Notification.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Personaggio.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Personaggio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pixel.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Pixel.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Point.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Point.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Polygon.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Polygon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rectangle.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Rectangle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SampleSound.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="SampleSound.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Text.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Text.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TextPlotter.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="TextPlotter.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Triangle.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="Triangle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

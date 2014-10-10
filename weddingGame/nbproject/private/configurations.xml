@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="88">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="trunk">
+      <in>Allegro.cpp</in>
+      <in>Allegro.h</in>
+      <in>Bitmap.cpp</in>
+      <in>Bitmap.h</in>
+      <in>Circle.cpp</in>
+      <in>Circle.h</in>
+      <in>Color.cpp</in>
+      <in>Color.h</in>
+      <in>ColorAlpha.cpp</in>
+      <in>ColorAlpha.h</in>
+      <in>ColorProxy.cpp</in>
+      <in>ColorProxy.h</in>
+      <in>CompositeBitmap.cpp</in>
+      <in>CompositeBitmap.h</in>
+      <in>CompositeSprite.cpp</in>
+      <in>CompositeSprite.h</in>
+      <in>ConversationHandler.cpp</in>
+      <in>ConversationHandler.h</in>
+      <in>Drawable.h</in>
+      <in>DrawablePointer.cpp</in>
+      <in>DrawablePointer.h</in>
+      <in>Ellipse.cpp</in>
+      <in>Ellipse.h</in>
+      <in>Eroe.cpp</in>
+      <in>Eroe.h</in>
+      <in>Font.cpp</in>
+      <in>Font.h</in>
+      <in>Keyboard.cpp</in>
+      <in>Keyboard.h</in>
+      <in>Line.cpp</in>
+      <in>Line.h</in>
+      <in>Mouse.cpp</in>
+      <in>Mouse.h</in>
+      <in>Munizione.cpp</in>
+      <in>Munizione.h</in>
+      <in>MyAllegro.cpp</in>
+      <in>MyAllegro.h</in>
+      <in>Nemico.cpp</in>
+      <in>Nemico.h</in>
+      <in>Notification.h</in>
+      <in>Personaggio.cpp</in>
+      <in>Personaggio.h</in>
+      <in>Pixel.cpp</in>
+      <in>Pixel.h</in>
+      <in>Point.cpp</in>
+      <in>Point.h</in>
+      <in>Polygon.cpp</in>
+      <in>Polygon.h</in>
+      <in>Rectangle.cpp</in>
+      <in>Rectangle.h</in>
+      <in>SampleSound.cpp</in>
+      <in>SampleSound.h</in>
+      <in>Sipario.cpp</in>
+      <in>Sipario.h</in>
+      <in>Sprite.h</in>
+      <in>Text.cpp</in>
+      <in>Text.h</in>
+      <in>TextPlotter.cpp</in>
+      <in>TextPlotter.h</in>
+      <in>Triangle.cpp</in>
+      <in>Triangle.h</in>
+      <in>main.cpp</in>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
