@@ -40,15 +40,13 @@ Therefore, fair use is applicable for all copyrighted material published in this
 
 ### Antefatto
 
-
-
 Musica di sottofondo: Bubble Bubble
 
 Voce fuori campo: Era una cupa sera di luglio quando tre amici di vecchia data si riunivano in un noto locale della movida lametina. Come spesso avveniva in quelle tristi serate, i tre baldi giovani sorseggiavano birra discorrendo sul gentil sesso presente nel locale.
 
-Marco: Ragà oggi è la stessa solfa di ieri... e domani sarà la stessa solfa di oggi.
-Vincenzo: Marcù mal comune, mezzo gaudio.
-Giovanni F.: Oh guaggliù, pomeriggio haiu fattu nu gol che mancu Shevchenko mi po'!!! Tinitimi tinitimi!!
+ - Marco: Ragà oggi è la stessa solfa di ieri... e domani sarà la stessa solfa di oggi.
+- Vincenzo: Marcù mal comune, mezzo gaudio.
+- Giovanni F.: Oh guaggliù, pomeriggio haiu fattu nu gol che mancu Shevchenko mi po'!!! Tinitimi tinitimi!!
 
 Voce fuori campo: Quand’ecco che durante il discorso dei giovani amici, Vincenzo scorgeva tra la folla un volto conosciuto.
 
@@ -66,32 +64,32 @@ Dopo i commenti dei due amici, Vincenzo fa ritorno ridendo.
 
 Voce fuori campo: Di fronte all’incredulità dei colleghi di sventure e allo stupore generale di tutto il locale, si concludeva la serata.
 
-Scena 2
+### Scena 2
 
-h4.Musica: Happy Dappy
+Musica: Happy Dappy
 
 (Musica allegra, cuoricini, bacini..)
 Vincenzo e Valentina escono insieme per la prima volta, e da quel momento vengono travolti dagli eventi.
 
-Scena 3
+### Scena 3
 
-h4.Musica: Masked Ball
+Musica: Masked Ball
 
 (Tutta la combriccola è riunita ad una tavola rotonda)
 
-Giovanni F.: Vi abbiamo convocato per darvi una notizia tanto sconvolgente quanto sconcertante!
-Marco: Vincenzo è in procinto di lasciare la compagnia a causa di una ragazza.
+ - Giovanni F.: Vi abbiamo convocato per darvi una notizia tanto sconvolgente quanto sconcertante!
+ - Marco: Vincenzo è in procinto di lasciare la compagnia a causa di una ragazza.
 Espressioni di stupore da tutti: ooooohhhhhh... noooooooo..... iiiiiiiii
-Luca: No! Abbiamo il dovere di mettergli il bastone tra le....mmmmm, va beh, ruote!
-Francesco: Organizziamo un rapimento. 
-Aligi: Il treruote è a disposizione.
-Saverio: Bene! Portiamola a Pianopoli a casa di Giovanni finchè Vincenzo non tornerà in sé!
+ - Luca: No! Abbiamo il dovere di mettergli il bastone tra le....mmmmm, va beh, ruote!
+ - Francesco: Organizziamo un rapimento. 
+ - Aligi: Il treruote è a disposizione.
+ - Saverio: Bene! Portiamola a Pianopoli a casa di Giovanni finchè Vincenzo non tornerà in sé!
 
 (Tutta la compagnia approva all’unanimità)
 
-Giovanni R.: Ragà, Vincenzo un giorno ci ringrazierà per questo!
+ - Giovanni R.: Ragà, Vincenzo un giorno ci ringrazierà per questo!
 
-Scena 4
+### Scena 4
 
 Musica: Mission impossible midi
 
