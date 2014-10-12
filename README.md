@@ -44,7 +44,7 @@ Musica di sottofondo: Bubble Bubble
 
 Voce fuori campo: Era una cupa sera di luglio quando tre amici di vecchia data si riunivano in un noto locale della movida lametina. Come spesso avveniva in quelle tristi serate, i tre baldi giovani sorseggiavano birra discorrendo sul gentil sesso presente nel locale.
 
- - Marco: Ragà oggi è la stessa solfa di ieri... e domani sarà la stessa solfa di oggi.
+- Marco: Ragà oggi è la stessa solfa di ieri... e domani sarà la stessa solfa di oggi.
 - Vincenzo: Marcù mal comune, mezzo gaudio.
 - Giovanni F.: Oh guaggliù, pomeriggio haiu fattu nu gol che mancu Shevchenko mi po'!!! Tinitimi tinitimi!!
 
