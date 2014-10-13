@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a little game I developed for one of my best friends wedding. You problably won't understand conversations among
+This is a little game I developed for one of my best friends wedding. You probably won't understand conversations among
 characters because it all take place in the south of Italy and everyone is speaking local dialect.
 
 I provide a translation here (both italian and english) if you want to understant what every is saying ... 
