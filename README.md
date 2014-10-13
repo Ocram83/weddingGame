@@ -22,7 +22,7 @@ I developed this game in c++ using [Allegro Wrapper](http://alviano.net/2013/05/
 
 Allegro Wrapper is a wrapping to the Object Oriented paradigm of the open soruce graphic library [Allegro](https://www.allegro.cc/).
 
-Allegro Wrapper is a work of [Mario Alviano](http://alviano.net/2013/05/14/allegro-wrapper/). Thank you Mario!
+Allegro Wrapper is a work of [Mario Alviano](http://alviano.net/about/). Thank you Mario!
 
 In order to compile this repository you should install allegro version 4 (packages for Debian based-SO are
 liballegro4.2-dev, liballegro4.4, liballegro4.4-plugin-alsa). I haven't experienced compiling on operationg system different from Linux; anyway Allegro is a cross-platform library, so it should be possible.
