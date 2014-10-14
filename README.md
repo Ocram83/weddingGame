@@ -20,7 +20,7 @@ Vincenzo has now to fight, defeat his former friends, and save the lovely prince
 
 I developed this game in c++ using [Allegro Wrapper](http://alviano.net/2013/05/14/allegro-wrapper/), an open soruce graphic library (version 4).
 
-Allegro Wrapper is a wrapping to the Object Oriented paradigm of the open soruce graphic library [Allegro](https://www.allegro.cc/). You can find AllegroWrapper on the github (here)[https://github.com/alviano/AllegroWrapper].
+Allegro Wrapper is a wrapping to the Object Oriented paradigm of the open soruce graphic library [Allegro](https://www.allegro.cc/). You can find AllegroWrapper on the github [here](https://github.com/alviano/AllegroWrapper).
 
 Allegro Wrapper is a work of [Mario Alviano](http://alviano.net/about/). Thank you Mario!
 
