@@ -11,7 +11,7 @@ Here is the **main plot**.
 
 The story starts from the day these to two friends of mine met again after more than ten years (they were classmate at elementary school). This is the only part of the story which really happened (apart from conversation which is fictional, I don't remember what we said that day, I don't have an eidetic memory, I am not Sheldon Cooper :P ).
 
-So, we were saying, Vincenzo and Valentina start dating and everyone in the "cirlce of the true friends" is warried that Vincenzo is going to leave the circle because of a women. So, here it comes the smart plan, kidnap Valentina, take her to the castle and leave her there until Vincenzo get sober again!
+So, we were saying, Vincenzo and Valentina start dating and everyone in the "cirlce of true friends" is warried that Vincenzo is going to leave the circle because of a women. So, here it comes the smart plan, kidnap Valentina, take her to the castle and leave her there until Vincenzo get sober again!
 No sooner said than done, we take _Aligi_'s [ape cross](http://en.wikipedia.org/wiki/Piaggio_Ape) and make the wicked plan happen!
 
 Vincenzo has now to fight, defeat his former friends, and save the lovely princess to get married.
@@ -49,7 +49,7 @@ Voice-over: It was a gloomy evening in July when three old friends gathered in a
 - Vincenzo: Marco, trouble shared is a trouble halved..
 - Giovanni F.: Duuudes, this afternoon I made a goal that could do even Shevchenko!! Someone stops me!!
 
-Voice-over: Suddenly that during the speech of young friends, Vincenzo saw a familiar face in the crowd.
+Voice-over: Suddenly during the speech of young friends, Vincenzo saw a familiar face in the crowd.
 
  - Vincenzo: Oh guys, that girl has attended elementary school in the same class as my! and she comes from Bella too!!
  - Giovanni F.: So Vincenco, go and speak to her!
@@ -57,7 +57,7 @@ Voice-over: Suddenly that during the speech of young friends, Vincenzo saw a fam
  - Marco: If you do, you will become my idol .. ever ... after Cardillo though !!
  - Vincenzo: Ok!! I'm going then!!
  - Giovanni F.: Vincenzo I recommend you to be serious and don't laugh in front of her like you use to do.
- - Marco: (laughing). Giovanni, I believe he will be knocked out, call Aligi as he will beaten first.
+ - Marco: (laughing). Giovanni, I believe he will be knocked out, call Aligi as he will be beaten first.
 
 After a while the two friends were chatting, Vincenzo comes back, laughing (as always)..
 
