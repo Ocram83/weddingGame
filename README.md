@@ -35,7 +35,7 @@ This game contains images ( few background images from "the simpsons") and sound
 
 Therefore, fair use is applicable for all copyrighted material published in this repository.
 
-## Original dialogues
+## Original dialogues (in italian)
 
 
 ### Antefatto
@@ -46,21 +46,28 @@ Voce fuori campo: Era una cupa sera di luglio quando tre amici di vecchia data s
 
 - Marco: Ragà oggi è la stessa solfa di ieri... e domani sarà la stessa solfa di oggi.
 - Vincenzo: Marcù mal comune, mezzo gaudio.
-- Giovanni F.: Oh guaggliù, pomeriggio haiu fattu nu gol che mancu Shevchenko mi po'!!! Tinitimi tinitimi!!
+- Giovanni F.: Oh guaggliù, pomeriggio haiu fattu nu gol che mancu Shevchenko mi po'!!! Tinitimi tinitimi!! 
+ - traduzione: ragazzi, oggi pomeriggio ho fatto un goal di cui neanche Shevchenko sarebbe capace! qualcuno mi fermi!
 
 Voce fuori campo: Quand’ecco che durante il discorso dei giovani amici, Vincenzo scorgeva tra la folla un volto conosciuto.
 
  - Vincenzo: IIIIIIIIII o guggliù killa era cu mia alli elimentari ed è da Bella puru illa.
+  - traduzione: oh ragazzi quella ragazza ha frequentato le scuole elementari nella classe assieme a me, ed è anche lei originaria del quartiere Bella!
  - Giovanni F.: O Vicì e vacci a parrari!
+  - traduzione: Dai Vincenzo vai a parlare con lei.
  - Vincenzo: No guggliù e ki ci cuntu?
+  - No ragazzi non saprei cosa dirle 
  - Marco: Se lo fai, diventerai il mio idolo ….. sempre dopo Cardillo però!!
  - Vincenzo: Vabbè!! Io vado allora!!
  - Giovanni F.: IIIIIIIIIIII. O Vincè vacci serio però un ci ridiri intra a facci cumu allu solito tua.
+  - traduzione: Vincenzo mi raccomando fai la persona seria e non riderle in faccia come al solito tuo.
  - Marco: (ride). Giovà secondo me u minanu, chiama subito ad Aligi accussì si i pia tutti illu.
+  -  traduzione: Giovanni secondo me verrà picchiato, presto contatta subito Aligi così sarà lui il nostro scudo umano.
 
 Dopo i commenti dei due amici, Vincenzo fa ritorno ridendo.
 
  - Vincenzo: Guaggliù ma ha datu u numeru!!!! Me ne vado.
+  - traduzione: Ragazzi mi ha dato il numero di telefono. Me ne vado.
 
 Voce fuori campo: Di fronte all’incredulità dei colleghi di sventure e allo stupore generale di tutto il locale, si concludeva la serata.
 
