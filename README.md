@@ -35,6 +35,36 @@ This game contains images ( few background images from "the simpsons") and sound
 
 Therefore, fair use is applicable for all copyrighted material published in this repository.
 
+
+## Dialogues (in english)
+
+
+### Foreword
+
+Background music: Bubble Bubble
+
+Voice-over: It was a gloomy evening in July when three old friends gathered in a well-known nightlife place in Lamezia. As often happened in those dismal nights, the three fearless young men were sipping beer talking on young ladies  attending the place.
+
+- Marco: Guys... different day .. same sh...
+- Vincenzo: Marco, trouble shared is a trouble halved..
+- Giovanni F.: Duuudes, this afternoon I made a goal that could do even Shevchenko!! Someone stops me!!
+
+Voice-over: Suddenly that during the speech of young friends, Vincenzo saw a familiar face in the crowd.
+
+ - Vincenzo: Oh guys, that girl has attended elementary school in the same class as my! and she comes from Bella too!!
+ - Giovanni F.: So Vincenco, go and speak to her!
+ - Vincenzo: No, I don't even know what to say
+ - Marco: If you do, you will become my idol .. ever ... after Cardillo though !!
+ - Vincenzo: Ok!! I'm going then!!
+ - Giovanni F.: Vincenzo I recommend you to be serious and don't laugh in front of her like you use to do.
+ - Marco: (laughing). Giovanni, I believe he will be knocked out, call Aligi as he will beaten first.
+
+After a while the two friends were chatting, Vincenzo comes back, laughing (as always)..
+
+ - Vincenzo: Guys, she gave me her phone number. I'm leaving !!
+
+Work in progress...
+
 ## Original dialogues (in italian)
 
 
